@@ -9,6 +9,18 @@ Done in Python, using **PyTorch**.
 ![Poster for the project](https://github.com/AncaSotir/StyleTransfer/blob/main/Poster_StyleTransfer.png)
 
 
+
+### Some results
+
+![Fig1](https://github.com/AncaSotir/StyleTransfer/blob/main/1.png)
+![Fig2](https://github.com/AncaSotir/StyleTransfer/blob/main/2.png)
+![Fig3](https://github.com/AncaSotir/StyleTransfer/blob/main/3.png)
+![Fig4](https://github.com/AncaSotir/StyleTransfer/blob/main/4.png)
+![Fig5](https://github.com/AncaSotir/StyleTransfer/blob/main/5.png)
+![Fig6](https://github.com/AncaSotir/StyleTransfer/blob/main/6.png)
+
+
+
 #### The link to the Google Colab notebooks:
 
 
