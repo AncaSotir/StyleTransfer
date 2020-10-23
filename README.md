@@ -6,7 +6,7 @@ The objective is to change an image’s style to match the one of another, whils
 Done in Python, using **PyTorch**.
 
 
-![Poster for the project]()
+![Poster for the project](https://github.com/AncaSotir/StyleTransfer/blob/main/Poster_StyleTransfer.pdf)
 
 
 #### The link to the Google Colab notebooks:
